@@ -1,0 +1,8 @@
+.modullar{
+    max-width: 1200px;
+}
+
+.modul-header{
+    display: flex;
+    justify-content: center;
+}
